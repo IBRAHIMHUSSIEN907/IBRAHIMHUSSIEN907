@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IBRAHIMHUSSIEN907
 - 👀 I’m interested in .programing..
 - 🌱 I’m currently learning .front end..
-- 💞️ I’m looking to collaborate on .softwear engineering..
+- 💞️ I’m looking to collaborate on .githup..
 - 📫 How to reach me ...
 
 <!---
